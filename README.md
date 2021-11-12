@@ -5,9 +5,10 @@
   <div>
 - 🔭 Atualmente sou estudante Full Stack
 - 🌱 Estudando React.js 
-  
+  <div>
 <a href="#">
     <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="245px" margin:'0 auto'   alt="Routine"></div>
+    </div>
     
  
     
