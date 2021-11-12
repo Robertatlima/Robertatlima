@@ -1,11 +1,9 @@
-## Olá! Bem vindo ao meu GitHub! Eu sou a Roberta Lima <a href="#">
+## Olá! Bem vindo ao meu GitHub! Eu sou a Roberta Lima 
 
 
-    <a href="#">
-    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="245px"  height="88" align="right"  alt="Routine">
+<a href="#">
+    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="245px"   alt="Routine">
     
-
-
 
   
 - 🔭 Atualmente sou estudante Full Stack
