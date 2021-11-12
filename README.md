@@ -2,11 +2,11 @@
 
 
 
-  
+  <div>
 - 🔭 Atualmente sou estudante Full Stack
 - 🌱 Estudando React.js 
 <a href="#">
-    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="245px"   alt="Routine">
+    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="245px"   alt="Routine"></div>
     
  
     
