@@ -1,14 +1,14 @@
 ## Olá! Bem vindo ao meu GitHub! Eu sou a Roberta Lima 
 
 
-<a href="#">
-    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="245px"   alt="Routine">
-    
 
   
 - 🔭 Atualmente sou estudante Full Stack
-- 🌱 Estudando React.js
-
+- 🌱 Estudando React.js 
+<a href="#">
+    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="245px"   alt="Routine">
+    
+ 
     
     
 <div align="center">
