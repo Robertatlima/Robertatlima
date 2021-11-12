@@ -1,4 +1,11 @@
 ## Olá! Bem vindo ao meu GitHub! Eu sou a Roberta Lima
+:department_store: I'm currently working on <a href="https://www.oabrs.org.br/">OAB/RS</a> as Junior Programmer.
+<br />
+:heart: I'm passionate about tech, music, movie, dog, cat, games and of course my family!
+<br />
+:speech_balloon: Ask me about anything <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/issues">here.</a>
+<br />
+:link: <a href="https://linktr.ee/lucasrmagalhaes">My Social Networks.</a>
 
 - 🔭 Atualmente sou estudante Full Stack
 - 🌱 Estudando React.js
