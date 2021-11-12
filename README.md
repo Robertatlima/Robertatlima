@@ -2,14 +2,13 @@
 
 
 
- 
 - 🔭 Atualmente sou estudante Full Stack
 - 🌱 Estudando React.js 
 
     
  
      <div >
-<a  align="center" href="#">
+<a  align="rigth" href="#">
     <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="245px"  alt="Routine"></div>
     
 <div align="center">
