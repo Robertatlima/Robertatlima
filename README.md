@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente sou estudante Full Stack
-- 🌱 Estudando React.js 
+- 🌱 Front-end React.js 
+- 🔭 Estudando python
 
     
  
