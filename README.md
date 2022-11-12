@@ -3,7 +3,7 @@
 
 
 - 🌱 Front-end React.js 
-- 🔭 Estudando python
+- 🔭 Estudando node.js
 
     
  
