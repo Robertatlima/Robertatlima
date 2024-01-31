@@ -2,8 +2,7 @@
 
 
 
-- 🌱 Front-end React.js 
-- 🔭 Estudando node.js
+- 🌱 Dev Front-end
 
     
  
